@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Puzzle8\Puzzle8\bin\Debug\net6.0\Puzzle8.exe
+C:\Users\PC\Documents\Puzzle8\Puzzle8\bin\Debug\net6.0\Puzzle8.deps.json
+C:\Users\PC\Documents\Puzzle8\Puzzle8\bin\Debug\net6.0\Puzzle8.runtimeconfig.json
+C:\Users\PC\Documents\Puzzle8\Puzzle8\bin\Debug\net6.0\Puzzle8.dll
+C:\Users\PC\Documents\Puzzle8\Puzzle8\bin\Debug\net6.0\Puzzle8.pdb
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.AssemblyInfo.cs
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.dll
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\refint\Puzzle8.dll
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.pdb
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\Puzzle8.genruntimeconfig.cache
+C:\Users\PC\Documents\Puzzle8\Puzzle8\obj\Debug\net6.0\ref\Puzzle8.dll
